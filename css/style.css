@@ -1,0 +1,75 @@
+body {
+  width: 80%;
+  text-align: center;
+  margin-left:  10%;
+  margin-right: 10%;
+
+}
+.logo-header {
+  height: 25px;
+  margin-top: 40px;
+}
+
+header {
+  background-image: url( immagini-css/header-bg.jpeg ) ;
+  width: 100%;
+  
+}
+
+.sottotitolo {
+  font-size: 15px;
+  color: lightslategray;
+  
+}
+
+.didascalia {
+  font-size: 15px;
+  color: lightslategray;
+  text-align: left;
+}
+.immagini-tim {
+  width: 48%;
+}
+
+.sottolineato {
+  color: brown;
+}
+
+td {
+
+  width: 20%;
+  border: 1px solid black;
+}
+
+.last-td {
+  width: 60%;
+}
+
+table {
+  border:1px solid black;
+  border-radius: 10px;
+}
+
+.colored-tr{
+  background-color: #06222F ;
+  color: white;
+}
+
+.table-header {
+  background-color: blueviolet;
+  color: white;
+}
+
+.footer-image {
+  position: relative;
+}
+
+.img-title {
+  position: absolute;
+  left: 10px;
+  color:white;
+  background-color: aquamarine;
+  border-radius: 7px;
+  padding: 3px;
+}
+
